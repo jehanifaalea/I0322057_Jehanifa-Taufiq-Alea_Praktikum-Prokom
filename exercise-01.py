@@ -1,0 +1,8 @@
+print("Nama panjang = Jehanifa Taufiq Alea")
+print("NIM = I0322057")
+print("alamat = Penaruban, Purbalingga")
+print("=========================")
+print("saya berasal dari Kabupaten Purbalingga, yang dikenal sebagai Kota Perwira")
+print("disebut Kota Perwira karena Purbalingga merupakan kota kelahiran salah satu pahlawan kemerdekaan yakni Jenderal Soedirman")
+print("=========================")
+print("harapan saya setelah lulus dari teknik industri ialah semoga saya mendapatkan pekerjaan yang sesuai dengan minat dan bakat saya serta dapat memanfaatkan ilmu yang saya dapat selama kuliah untuk dapat membatu orang lain khususnya pada bidang industri")
